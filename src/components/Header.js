@@ -3,8 +3,11 @@ import Typography from "@material-ui/core/Typography";
 import Box from "@material-ui/core/Box";
 import Typed from "react-typed";
 import { makeStyles } from "@material-ui/core/styles";
+import styles from "../App.css"
 
 const useStyles = makeStyles((theme) => ({
+
+
   title: {
     color: "white",
   },
